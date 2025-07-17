@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/farzad528-mcp-server-azure-ai-agents-badge.png)](https://mseep.ai/app/farzad528-mcp-server-azure-ai-agents)
+
 # Azure AI Agent Service + Azure AI Search MCP Server
 
 A Model Context Protocol (MCP) server that enables Claude Desktop to search your content using Azure AI services. Choose between Azure AI Agent Service (with both document search and web search) or direct Azure AI Search integration.
